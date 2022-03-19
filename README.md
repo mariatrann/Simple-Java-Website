@@ -1,2 +1,2 @@
 # Simple-Java-Website
-Group programmed a simple Java Website on Apache NetBeans IDE
+Group programmed with Lina Tran(ltran321) and Kevin Pham a simple Java Website on Apache NetBeans IDE
